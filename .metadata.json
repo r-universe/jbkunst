@@ -1,10 +1,10 @@
 [
   {
-    "package": "rchess",
+    "package": "highcharter",
     "oncran": true
   },
   {
-    "package": "highcharter",
+    "package": "rchess",
     "oncran": true
   }
 ]
