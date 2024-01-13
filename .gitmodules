@@ -5,6 +5,3 @@
 [submodule "highcharter"]
 	path = highcharter
 	url = https://github.com/jbkunst/highcharter
-[submodule "rchess"]
-	path = rchess
-	url = https://github.com/jbkunst/rchess
